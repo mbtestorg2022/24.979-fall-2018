@@ -136,7 +136,7 @@ Krifka, Manfred. "[The semantics and pragmatics of weak and strong polarity item
 
 Lahiri, Utpal. "[Focus and negative polarity in Hindi](https://doi.org/10.1023/A:1008211808250)." _Natural Language Semantics 6_ (1998) pp. 57–123.
 
-Schwarz, Bernhard. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on _even_ (PDF)](http://webpages.mcgill.ca/staff/group4/bschwa8/web/pdf/even.pdf)." Unpublished manuscript, Stuttgart University (2000).
+Schwarz, Bernhard. "[Notes on _even_ (PDF)](http://webpages.mcgill.ca/staff/group4/bschwa8/web/pdf/even.pdf)." Unpublished manuscript, Stuttgart University (2000).
 
 
 {{< tdclose >}}
@@ -157,9 +157,9 @@ Chierchia, Gennaro. "Intervention" in _Logic in Grammar: Polarity, Free Choice, 
 
 Crnič, Luka. "[Non-monotonicity in NPI licensing](https://doi.org/10.1007/s11050-014-9104-6)." _Natural Language Semantics_ 22 (2014), pp. 169–217.
 
-Heim, Irene. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A note on negative polarity and downward entailingness (PDF)](https://semanticsarchive.net/Archive/DUxZWMyM/Heim_nels14.pdf)" in _Proceedings of NELS_ 14, pp. 98–107 (1984).
+Heim, Irene. "[A note on negative polarity and downward entailingness (PDF)](https://semanticsarchive.net/Archive/DUxZWMyM/Heim_nels14.pdf)" in _Proceedings of NELS_ 14, pp. 98–107 (1984).
 
-Rothschild, Daniel. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Non-monotonic NPI-licensing, definite descriptions, and grammaticalized implicatures (PDF)](https://ecommons.cornell.edu/bitstream/handle/1813/7590/salt16_rothschild_228_240.pdf)" in _Proceedings of SALT_ 16, ed. M. Gibson and J. Howell (2006).
+Rothschild, Daniel. "[Non-monotonic NPI-licensing, definite descriptions, and grammaticalized implicatures (PDF)](https://ecommons.cornell.edu/bitstream/handle/1813/7590/salt16_rothschild_228_240.pdf)" in _Proceedings of SALT_ 16, ed. M. Gibson and J. Howell (2006).
 
 
 {{< tdclose >}}
